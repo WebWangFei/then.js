@@ -2,6 +2,7 @@ then.js 1.3.6 [![Build Status](https://travis-ci.org/teambition/then.js.png?bran
 ====
 The fastest, smallest, fully compatible, full-featured asynchronous module!
 
+## Repo was moved to https://github.com/teambition/then.js
 
 **能用简单优美的方式将任何同步或异步回调函数转换成then()链式调用！**
 
